@@ -1,10 +1,10 @@
 # Joke-Generator
 Joke Generator 🎭 A fun and interactive web application built with HTML, CSS, and JavaScript to generate random jokes on demand.
-Features ✨
+ Features ✨
 - Random Joke Generation: Displays a new joke with each button click.
 - API Integration: Fetches jokes from an external API or a predefined joke collection.
 How It Works ⚡
-- Click the "Get a Joke" button.
+- Click the "Generate Joke" button.
 - The app fetches and displays a joke instantly.
 - Enjoy and share the laughs!
 Technologies Used 💻
