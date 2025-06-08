@@ -13,8 +13,8 @@ Joke Generator 🎭 A fun and interactive web application built with HTML, CSS, 
 🔗Technologies Used 💻
 - HTML for structure
 - CSS for styling
-  
 - JavaScript for functionality
+  
 🔗Future Enhancements 🚀
 - Option to categorize jokes (e.g., dad jokes, programming jokes, etc.).
 - Dark mode toggle for better user experience.
